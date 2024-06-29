@@ -1,5 +1,5 @@
 <template>
-  <div class="form-main">
+  <div class="form-main alan">
     <AddData/>
     <ShowData/>
   </div>
